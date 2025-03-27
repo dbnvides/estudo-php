@@ -1,23 +1,15 @@
-Estudo de PHP - Autenticação Simples
+<h2>Tecnologias Utilizadas</h2>
+<ul>
+    <li>PHP (sem frameworks)</li>
+    <li>HTML básico</li>
+    <li>Sessions para controle de autenticação</li>
+    <li>Password Hashing para armazenar senhas com segurança</li>
+</ul>
 
-Este repositório faz parte do meu estudo inicial de PHP, onde desenvolvi uma aplicação simples de autenticação sem estilização. O objetivo é compreender conceitos básicos como manipulação de formulários, sessões, validação de dados e hashes de senhas.
-
-Tecnologias Utilizadas
-
-PHP (sem frameworks)
-
-HTML básico
-
-Sessions para controle de autenticação
-
-Password Hashing para armazenar senhas com segurança
-
-Funcionalidades
-
-Login de usuários com verificação de senha
-
-Uso de $\_SESSION para manter o estado do usuário autenticado
-
-Proteção contra acessos não autorizados
-
-Redirecionamento após o login bem-sucedido
+<h2>Funcionalidades</h2>
+<ul>
+    <li>Login de usuários com verificação de senha</li>
+    <li>Uso de <code>$_SESSION</code> para manter o estado do usuário autenticado</li>
+    <li>Proteção contra acessos não autorizados</li>
+    <li>Redirecionamento após o login bem-sucedido</li>
+</ul>
